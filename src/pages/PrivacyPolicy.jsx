@@ -6,11 +6,16 @@ function PrivacyPolicy() {
   return (
     <>
       <Helmet>
-        <title>Privacy Policy | SEOPETERMAN</title>
+        <title>Privacy Policy | MR GOODS Limited</title>
         <meta
           name="description"
-          content="Privacy Policy for SEO by Gosia, explaining how we collect, use, and protect your personal data."
+          content="Read the Privacy Policy of MR GOODS Limited. Learn how we collect, use, and protect your personal data when you visit our website or use our services."
         />
+        <meta property="og:title" content="Privacy Policy | MR GOODS Limited" />
+        <meta property="og:description" content="How MR GOODS Limited handles your personal data in accordance with data protection regulations." />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://www.mrgoods.co.uk/privacy-policy" />
+        <link rel="canonical" href="https://www.mrgoods.co.uk/privacy-policy" />
       </Helmet>
 
       <PageHero

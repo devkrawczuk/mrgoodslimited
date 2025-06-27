@@ -14,9 +14,9 @@ function Home() {
   return (
     <div className="mt-10">
       <Helmet>
-        <title>Home | Mr Goods Limited</title>
+        <title>Home | MR GOODS Limited</title>
         <meta name="description" content="Professional painting and renovation services tailored to your needs." />
-        <meta property="og:title" content="Home | Mr Goods Limited" />
+        <meta property="og:title" content="Home | MR GOODS Limited" />
         <meta property="og:description" content="Professional painting and renovation services tailored to your needs." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.mrgoodslimited.com/" />
@@ -38,7 +38,7 @@ function Home() {
       <BoxedTextBlock
         subtitle="About Us"
         title="Trusted Experts in Painting & Renovation"
-        text="At Mr Goods Limited, we pride ourselves on delivering top-notch painting and renovation services across residential and commercial properties. Our team is committed to quality, timeliness, and exceptional customer care."
+        text="At MR GOODS Limited, we pride ourselves on delivering top-notch painting and renovation services across residential and commercial properties. Our team is committed to quality, timeliness, and exceptional customer care."
       />
 
       {/* Main service pages teasers with images */}

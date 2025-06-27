@@ -6,10 +6,10 @@ function CookiesPolicy() {
   return (
     <>
       <Helmet>
-        <title>Cookies Policy | SEO by Gosia</title>
+        <title>Cookies Policy | MR GOODS Limited</title>
         <meta
           name="description"
-          content="Cookies Policy for SEO by Gosia explaining how we use cookies and your options for managing them."
+          content="Cookies Policy for MR GOODS Limited explaining how we use cookies and your options for managing them."
         />
       </Helmet>
 

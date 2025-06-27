@@ -10,13 +10,13 @@ function About() {
   return (
     <div className="mt-10 overflow-hidden">
       <Helmet>
-        <title>About Us | Mr Goods Limited</title>
+        <title>About Us | MR GOODS Limited</title>
         <meta
           name="description"
-          content="Learn more about Mr Goods Limited – trusted painting and renovation experts dedicated to exceptional craftsmanship and customer satisfaction."
+          content="Learn more about MR GOODS Limited – trusted painting and renovation experts dedicated to exceptional craftsmanship and customer satisfaction."
         />
-        <meta property="og:title" content="About Us | Mr Goods Limited" />
-        <meta property="og:description" content="Discover the story behind Mr Goods Limited, a team committed to transforming spaces with precision and care." />
+        <meta property="og:title" content="About Us | MR GOODS Limited" />
+        <meta property="og:description" content="Discover the story behind MR GOODS Limited, a team committed to transforming spaces with precision and care." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.mrgoodslimited.com/about" />
         <link rel="canonical" href="https://www.mrgoodslimited.com/about" />
@@ -34,7 +34,7 @@ function About() {
       <LeftTextBlockWhite
         subtitle="Our Commitment"
         title="Excellence in Every Brushstroke"
-        text="At Mr Goods Limited, we understand that your home or business deserves the very best. With decades of combined experience, our team delivers meticulous painting and renovation services that stand the test of time. We blend craftsmanship with the latest techniques to ensure every project reflects quality, durability, and your personal style."
+        text="At MR GOODS Limited, we understand that your home or business deserves the very best. With decades of combined experience, our team delivers meticulous painting and renovation services that stand the test of time. We blend craftsmanship with the latest techniques to ensure every project reflects quality, durability, and your personal style."
       />
 
       <LeftImageRigthSection
@@ -63,7 +63,7 @@ function About() {
       <LeftTextBlockWhite
         subtitle="A Word from Our Founder"
         title="Passion Meets Precision"
-        text="We believe that every project, no matter how big or small, deserves the utmost care and attention. Our founder started Mr Goods Limited with a vision to provide honest, high-quality renovation and painting services that truly make a difference. Today, that vision drives everything we do."
+        text="We believe that every project, no matter how big or small, deserves the utmost care and attention. Our founder started MR GOODS Limited with a vision to provide honest, high-quality renovation and painting services that truly make a difference. Today, that vision drives everything we do."
       />
     </div>
   );

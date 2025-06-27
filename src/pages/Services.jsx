@@ -7,18 +7,18 @@ import RightImageLeftSection from '../sections/RightImageLeftSection.jsx';
 function Services() {
   return (
     <div className="mt-10">
-      <Helmet>
-        <title>Our SEO Services | SEOPETERMAN</title>
-        <meta
-          name="description"
-          content="Explore SEO services offered by SEOPeterman: from audits to on-page and off-page optimization. Tailored strategies for growth."
-        />
-        <meta property="og:title" content="Our SEO Services | SEOPeterman" />
-        <meta property="og:description" content="Explore how SEOPeterman helps businesses grow with modern, tailored SEO solutions." />
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.seopeterman.com/services" />
-        <link rel="canonical" href="https://www.seopeterman.com/services" />
-      </Helmet>
+    <Helmet>
+      <title>Our Services | MR GOODS Limited</title>
+      <meta
+        name="description"
+        content="Discover professional painting, decorating, plastering, and drylining services by MR GOODS Limited. Quality craftsmanship for residential and commercial projects in the UK."
+      />
+      <meta property="og:title" content="Our Services | MR GOODS Limited" />
+      <meta property="og:description" content="Explore MR GOODS Limited's full range of interior and exterior services, including painting, decorating, and plastering tailored to your needs." />
+      <meta property="og:type" content="website" />
+      <meta property="og:url" content="https://www.mrgoods.co.uk/services" />
+      <link rel="canonical" href="https://www.mrgoods.co.uk/services" />
+    </Helmet>
 
       <PageHero
         title="Our Services"

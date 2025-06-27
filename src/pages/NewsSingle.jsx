@@ -15,7 +15,7 @@ const NewsPage = () => {
   return (
     <>
       <Helmet>
-        <title>{article.title} | News | SEOPETERMAN</title>
+        <title>{article.title} | News | MR GOODS Limited</title>
         <meta name="description" content={article.summary} />
         <meta property="og:title" content={article.title} />
         <meta property="og:description" content={article.summary} />

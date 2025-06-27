@@ -5,7 +5,7 @@ import { Helmet } from 'react-helmet-async';
 const NotFound = () => (
   <>
     <Helmet>
-      <title>404 - Page Not Found | SEOPETERMAN</title>
+      <title>404 - Page Not Found | MR GOODS Limited</title>
       <meta name="robots" content="noindex" />
     </Helmet>
     <div className="container text-center mt-5 py-5">

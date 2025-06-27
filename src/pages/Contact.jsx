@@ -7,8 +7,16 @@ function Contact() {
   return (
     <>
       <Helmet>
-        <title>Contact | InteriorFinisher</title>
-        <meta name="description" content="Contact us for professional painting and interior finishing services. Let's bring your vision to life!" />
+        <title>Contact Us | MR GOODS Limited</title>
+        <meta
+          name="description"
+          content="Get in touch with MR GOODS Limited for expert painting, decorating, plastering, and drylining services. We're here to answer your questions and provide a free quote."
+        />
+        <meta property="og:title" content="Contact MR GOODS Limited" />
+        <meta property="og:description" content="Reach out to MR GOODS Limited for high-quality renovation and finishing services. Let’s bring your vision to life." />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://www.mrgoods.co.uk/contact" />
+        <link rel="canonical" href="https://www.mrgoods.co.uk/contact" />
       </Helmet>
 
       <PageHero

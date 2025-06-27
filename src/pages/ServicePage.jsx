@@ -33,7 +33,7 @@ function ServicePage() {
   return (
     <div className="mt-10">
       <Helmet>
-        <title>{page.seo.title}</title>
+        <title>{page.seo.title} | MR GOODS Limited</title>
         <meta name="description" content={page.seo.description} />
         <meta property="og:title" content={page.seo.title} />
         <meta property="og:description" content={page.seo.description} />

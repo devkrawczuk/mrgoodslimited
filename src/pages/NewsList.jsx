@@ -46,8 +46,16 @@ const NewsList = () => {
   return (
     <>
       <Helmet>
-        <title>Latest News | SEOPETERMAN</title>
-        <meta name="description" content="Stay updated with the latest SEO news and updates." />
+        <title>Latest News | MR GOODS Limited</title>
+        <meta
+          name="description"
+          content="Stay updated with the latest news, updates, and insights from MR GOODS Limited. Discover our recent projects, service innovations, and expert tips in painting, decorating, plastering, and drylining."
+        />
+        <meta property="og:title" content="Latest News | MR GOODS Limited" />
+        <meta property="og:description" content="Discover updates, expert tips, and highlights from MR GOODS Limited’s latest work and services." />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://www.mrgoods.co.uk/news" />
+        <link rel="canonical" href="https://www.mrgoods.co.uk/news" />
       </Helmet>
 
       <PageHero

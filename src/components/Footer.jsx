@@ -11,7 +11,7 @@ function Footer() {
           <div className="col-md-3 mb-4">
             <img
               src="/images/1-cropped.svg"
-              alt="MR Goods Limited logo"
+              alt="MR GOODS Limited logo"
               className="img-fluid mb-3"
               style={{ maxHeight: '100px', objectFit: 'contain' }}
             />
@@ -84,7 +84,7 @@ function Footer() {
         {/* Bottom bar */}
         <div className="text-center mt-4 pt-3 border-top border-secondary">
           <p className="mb-0" style={{ fontSize: '0.875rem' }}>
-            © {new Date().getFullYear()} MR GOODS LIMITED. All rights reserved.
+            © {new Date().getFullYear()} MR GOODS Limited. All rights reserved.
           </p>
         </div>
       </div>

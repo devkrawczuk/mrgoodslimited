@@ -6,7 +6,7 @@ const ThankYou = () => {
   return (
     <>
       <Helmet>
-        <title>Thank You | SEOPETERMAN</title>
+        <title>Thank You | MR GOODS Limited</title>
         <meta name="description" content="Thank you for getting in touch. I’ll respond as soon as possible." />
       </Helmet>
 
