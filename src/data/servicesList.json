@@ -1,0 +1,191 @@
+[
+  {
+    "title": "Painting Walls and Ceilings",
+    "title_pl": "Malowanie ścian i sufitów",
+    "icon": "RiPaintBrushLine",
+    "description": "Interior painting with smooth, durable finishes.",
+    "url": "/services/painting-services#painting-walls-and-ceilings"
+  },
+  {
+    "title": "Painting Doors and Window Frames",
+    "title_pl": "Malowanie drzwi i ram okiennych",
+    "icon": "FaBrush",
+    "description": "Detail painting for doors, frames, and trims.",
+    "url": "/services/painting-services#painting-doors-and-window-frames"
+  },
+  {
+    "title": "Exterior Painting",
+    "title_pl": "Malowanie zewnętrzne",
+    "icon": "RiPaintBrushFill",
+    "description": "Durable exterior paint for all building types.",
+    "url": "/services/painting-services#exterior-painting"
+  },
+  {
+    "title": "Facade Painting",
+    "title_pl": "Malowanie elewacji",
+    "icon": "FaCity",
+    "description": "Specialist coating for building facades.",
+    "url": "/services/painting-services#facade-painting"
+  },
+  {
+    "title": "Refreshing Old Paintwork",
+    "title_pl": "Odświeżanie starych powłok",
+    "icon": "FaRedoAlt",
+    "description": "Repainting and refreshing tired surfaces.",
+    "url": "/services/painting-services#refreshing-old-paint"
+  },
+  {
+    "title": "Anti-Mould Paint Application",
+    "title_pl": "Malowanie farbą antypleśniową",
+    "icon": "TbBiohazard",
+    "description": "Special paints to combat damp and mould.",
+    "url": "/services/painting-services#anti-mould-paint"
+  },
+  {
+    "title": "Decorative Painting",
+    "title_pl": "Malowanie dekoracyjne",
+    "icon": "GiPaintBrush",
+    "description": "Stylish finishes and feature wall painting.",
+    "url": "/services/painting-services#decorative-painting"
+  },
+  {
+    "title": "Spray Painting",
+    "title_pl": "Malowanie sprayem",
+    "icon": "GiSpray",
+    "description": "Smooth, fast application using paint spraying.",
+    "url": "/services/painting-services#spray-painting"
+  },
+  {
+    "title": "Skimming",
+    "title_pl": "Gładź gipsowa",
+    "icon": "GiTrowel",
+    "description": "Smooth plaster finish over existing surfaces.",
+    "url": "/services/plastering-services#skimming"
+  },
+  {
+    "title": "Wall Plastering",
+    "title_pl": "Tynkowanie ścian",
+    "icon": "GiBrickWall",
+    "description": "Full plaster coverage and surface prep.",
+    "url": "/services/plastering-services#wall-plastering"
+  },
+  {
+    "title": "Ceiling Plastering",
+    "title_pl": "Tynkowanie sufitów",
+    "icon": "FaWindowRestore",
+    "description": "Plasterwork and smoothing of ceilings.",
+    "url": "/services/plastering-services#ceiling-plastering"
+  },
+  {
+    "title": "External Rendering",
+    "title_pl": "Tynkowanie zewnętrzne",
+    "icon": "MdOutlineHomeRepairService",
+    "description": "Weatherproof plaster/rendering for exteriors.",
+    "url": "/services/plastering-services#external-rendering"
+  },
+  {
+    "title": "Textured Plaster Application",
+    "title_pl": "Nakładanie tynków strukturalnych",
+    "icon": "GiCorkedTube",
+    "description": "Decorative and functional texture coating.",
+    "url": "/services/plastering-services#textured-plaster"
+  },
+  {
+    "title": "Decorative Plastering",
+    "title_pl": "Tynkowanie dekoracyjne",
+    "icon": "GiFountainPen",
+    "description": "Custom textures and patterns in plaster.",
+    "url": "/services/plastering-services#decorative-plastering"
+  },
+  {
+    "title": "Crack and Damage Repairs",
+    "title_pl": "Naprawa pęknięć i uszkodzeń",
+    "icon": "GiCrackedGlass",
+    "description": "Repair of damaged or cracked plaster.",
+    "url": "/services/plastering-services#plaster-repair"
+  },
+  {
+    "title": "Dry Lining",
+    "title_pl": "Sucha zabudowa (płyty gipsowe)",
+    "icon": "TbLayoutBoardSplit",
+    "description": "Plasterboard installation for new walls and ceilings.",
+    "url": "/services/plastering-services#dry-lining"
+  },
+  {
+    "title": "Wallpapering",
+    "title_pl": "Tapetowanie",
+    "icon": "MdWallpaper",
+    "description": "Professional wallpaper application.",
+    "url": "/services/decorating-services#wallpapering"
+  },
+  {
+    "title": "Wallpaper Removal",
+    "title_pl": "Zdzieranie starej tapety",
+    "icon": "FaEraser",
+    "description": "Safe and clean removal of old wallpapers.",
+    "url": "/services/decorating-services#wallpaper-removal"
+  },
+  {
+    "title": "Wall Preparation and Priming",
+    "title_pl": "Gruntowanie i przygotowanie ścian",
+    "icon": "GiSandingTool",
+    "description": "Surface cleaning, sanding, and priming.",
+    "url": "/services/decorating-services#wall-preparation"
+  },
+  {
+    "title": "Filling and Patching",
+    "title_pl": "Szpachlowanie",
+    "icon": "GiTrowel",
+    "description": "Repairing holes, cracks and smoothing surfaces.",
+    "url": "/services/decorating-services#filling-patching"
+  },
+  {
+    "title": "Skirting and Cornice Installation",
+    "title_pl": "Listwy przypodłogowe i ozdobne",
+    "icon": "GiWoodFrame",
+    "description": "Elegant trims for walls and ceilings.",
+    "url": "/services/decorating-services#skirting-cornice"
+  },
+  {
+    "title": "Coving Installation",
+    "title_pl": "Montaż listew sufitowych (gzymsów)",
+    "icon": "GiGreekTemple",
+    "description": "Fitting of decorative coving and moulding.",
+    "url": "/services/decorating-services#coving"
+  },
+  {
+    "title": "Painting Decorative Mouldings",
+    "title_pl": "Malowanie detali ozdobnych",
+    "icon": "GiPaintedPottery",
+    "description": "Detail painting for interior mouldings.",
+    "url": "/services/decorating-services#decorative-moulding"
+  },
+  {
+    "title": "Damp and Mould Treatment",
+    "title_pl": "Usuwanie wilgoci i pleśni",
+    "icon": "GiWaterDrop",
+    "description": "Specialist treatment of damp walls and ceilings.",
+    "url": "/services/painting-services#damp-treatment"
+  },
+  {
+    "title": "Interior Renovation Services",
+    "title_pl": "Usługi remontowe wnętrz",
+    "icon": "MdBuild",
+    "description": "General interior refurbishment and upgrades.",
+    "url": "/services/painting-services#interior-renovation"
+  },
+  {
+    "title": "Plasterboard Installation",
+    "title_pl": "Montaż płyt gipsowo-kartonowych",
+    "icon": "TbLayout2",
+    "description": "Quick and accurate plasterboard fitting.",
+    "url": "/services/drylining-services#plasterboard-installation"
+  },
+  {
+    "title": "Surface Prep & Old Plaster Removal",
+    "title_pl": "Prace przygotowawcze (czyszczenie, zrywanie tynków)",
+    "icon": "GiVacuumCleaner",
+    "description": "Wall cleaning, old plaster and paint removal.",
+    "url": "/services/plastering-services#surface-preparation"
+  }
+]

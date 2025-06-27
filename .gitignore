@@ -1,0 +1,23 @@
+# Nie wrzucaj zależności
+node_modules/
+
+# Build (output) - generowane pliki
+dist/
+build/
+
+# systemowe
+.DS_Store
+
+# środowiskowe/ustawienia edytora
+.env
+.env.local
+.vscode/
+.idea/
+
+# logi i błędy
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# lock file — możesz trzymać, ale jak chcesz ignorować:
+# package-lock.json

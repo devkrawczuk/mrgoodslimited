@@ -1,0 +1,499 @@
+[
+{
+  "slug": "painting-services",
+  "title": "Painting Services",
+  "text": "Smooth, clean application for modern interiors and exteriors. We provide expert painting solutions that bring your spaces to life with quality and precision.",
+  "icon": "FaPaintRoller",
+  "seo": {
+    "title": "Expert Painting Service | MR GOODS LIMITED",
+    "description": "Discover our expert painting services designed to transform your space with color and precision.",
+    "url": "https://www.mrgoods.co.uk/services/painting-services"
+  },
+  "blocks": [
+    {
+      "type": "LeftTextBlockWhite",
+      "props": {
+        "title": "Premium Painting Services",
+        "subtitle": "Craftsmanship That Speaks",
+        "text": "Our interior wall and ceiling painting services are designed to revitalize your living or working spaces with a flawless finish. We meticulously prepare each surface by cleaning, sanding, and priming where necessary, ensuring optimal paint adhesion and longevity. Using premium-quality paints, our experienced painters deliver smooth, even coats that enhance the room’s ambiance and protect your walls for years to come. Whether you want a fresh, modern look or a classic finish, our team adapts to your style preferences and project needs. We also pay close attention to clean edges and minimal disruption, respecting your space throughout the process."
+      }
+    },
+    {
+      "type": "RightImageLeftSection",
+      "props": {
+        "title": "Expert Finish Every Time",
+        "text": "Our experienced painters are trained to work cleanly and efficiently, minimizing disruption while delivering a flawless finish. We only use top-tier paints and primers to ensure longevity, washability, and stunning depth of color. We prep, protect, and perfect—down to the last brushstroke.",
+        "imageSrc": "/images/services/painting-services.jpg",
+        "imageAlt": "Interior Painting",
+        "ctaText": "View Painting Services",
+        "ctaLink": "/services/painting-services"
+      }
+    },
+    {
+      "type": "ImageLeftText",
+      "props": {
+        "id": "painting-walls-and-ceilings",
+        "title": "Painting Walls and Ceilings",
+        "text": "Our wall and ceiling painting service transforms your interior spaces with precision and elegance. We specialize in creating clean, even, and durable finishes that elevate the appearance of every room. Whether you're looking to refresh your home, office, or commercial property, our team begins with a detailed assessment of the surfaces, repairing cracks, sanding imperfections, and ensuring everything is perfectly primed. We apply premium-quality paints using professional techniques that minimize mess and maximize coverage. From bright, modern whites to bold accent colors, we help you choose the ideal tones to match your interior design goals. The result is a space that feels new, bright, and expertly finished.",
+        "imageSrc": "/images/modules/painting-walls-ceilings.jpg",
+        "imageAlt": "Painting Walls and Ceilings",
+        "backgroundColor": "#ffffff", 
+        "textColor": "#000000"
+      }
+    },
+    {
+      "type": "ImageRightText",
+      "props": {
+        "id": "painting-doors-and-window-frames",
+        "title": "Painting Doors and Window Frames",
+        "text": "Doors and window frames are key architectural features that require precise and detailed painting to preserve their beauty and function. Our specialists use fine brushes and advanced techniques to achieve crisp lines and smooth finishes on wood, metal, or PVC surfaces. We carefully prepare all surfaces by sanding and stripping old paint, followed by applying high-quality primers and durable topcoats. This process protects against wear and tear, weather effects, and fading, ensuring your doors and frames maintain their appearance and durability. Whether restoring historic details or refreshing modern frames, we guarantee professional results that enhance your property’s aesthetic.",
+        "imageSrc": "/images/modules/painting-doors-frames.jpg",
+        "imageAlt": "Painting Doors and Window Frames",
+        "backgroundColor": "#ffffff", 
+        "textColor": "#000000"
+      }
+    },
+    {
+      "type": "ImageLeftText",
+      "props": {
+        "id": "exterior-painting",
+        "title": "Exterior Painting",
+        "text": "Our exterior painting service provides long-lasting protection and beautification for your building’s outside surfaces. We understand that exterior walls are exposed to harsh weather conditions such as rain, sun, wind, and temperature fluctuations, so we use premium weather-resistant paints and coatings designed for durability and color retention. Our team conducts thorough surface preparation, including cleaning, scraping, and repairing cracks or damage before applying multiple layers of paint. This ensures excellent adhesion and a smooth finish. With attention to detail and quality workmanship, we help preserve your building’s structural integrity and enhance its curb appeal.",
+        "imageSrc": "/images/modules/exterior-painting.jpg",
+        "imageAlt": "Exterior Painting"
+      }
+    },
+    {
+      "type": "ImageRightText",
+      "props": {
+        "id": "facade-painting",
+        "title": "Facade Painting",
+        "text": "Specializing in facade painting, we apply specialist coatings that not only beautify but also protect the building’s facade from environmental damage such as pollution, moisture ingress, and UV exposure. Our experts choose the right products tailored to your facade’s material, including brick, stone, stucco, or concrete. After meticulous surface preparation, including cleaning and minor repairs, we apply primer and finish coats that provide excellent coverage and resistance to cracking or peeling. This service revitalizes your property’s front-facing exterior, making a striking first impression while extending the lifespan of your facade.",
+        "imageSrc": "/images/modules/facade-painting.jpg",
+        "imageAlt": "Facade Painting",
+        "backgroundColor": "#ffffff", 
+        "textColor": "#000000"
+      }
+    },
+    {
+      "type": "ImageLeftText",
+      "props": {
+        "id": "refreshing-old-paint",
+        "title": "Refreshing Old Paintwork",
+        "text": "Over time, painted surfaces lose their vibrancy due to wear, weather, and dirt accumulation. Our refreshing service includes careful surface assessment to determine the best approach to removing flaking, chalking, or discolored paint. We clean, sand, and repair surfaces before applying fresh coats of paint using high-quality materials that restore the original look and protect against future damage. This cost-effective solution breathes new life into your property, improving its appearance and increasing its value without the need for costly renovations.",
+        "imageSrc": "/images/modules/refreshing-paintwork.jpg",
+        "imageAlt": "Refreshing Old Paintwork"
+      }
+    },
+    {
+      "type": "ImageRightText",
+      "props": {
+        "id": "anti-mould-paint",
+        "title": "Anti-Mould Paint Application",
+        "text": "Dampness and mould can cause serious health and structural issues if untreated. We apply specialist anti-mould and anti-fungal paints that create a protective barrier against moisture and biological growth. These paints are breathable yet water-resistant, allowing walls to dry out while preventing mould spores from taking hold. Our team ensures thorough surface preparation including cleaning and treating affected areas before applying the coating. This treatment is ideal for bathrooms, kitchens, basements, and other moisture-prone areas, helping to maintain a healthy indoor environment.",
+        "imageSrc": "/images/modules/anti-mould-paint.jpg",
+        "imageAlt": "Anti-Mould Paint Application",
+        "backgroundColor": "#ffffff", 
+        "textColor": "#000000"
+      }
+    },
+    {
+      "type": "ImageLeftText",
+      "props": {
+        "id": "decorative-painting",
+        "title": "Decorative Painting",
+        "text": "Our decorative painting services add character and style to any space. From accent walls and murals to faux finishes like marbling or wood grain, we bring your creative ideas to life with professional artistry. We discuss your vision and color preferences in detail, then prepare the surface to ensure the best paint adherence. Using specialist techniques and high-quality paints, we create stunning effects that become a focal point of your interior design. Perfect for homes, offices, and commercial spaces looking to make a unique statement.",
+        "imageSrc": "/images/modules/decorative-painting.jpg",
+        "imageAlt": "Decorative Painting"
+      }
+    },
+    {
+      "type": "ImageRightText",
+      "props": {
+        "id": "spray-painting",
+        "title": "Spray Painting",
+        "text": "For large surfaces or projects requiring fast turnaround and ultra-smooth finishes, our spray painting service is ideal. We use professional-grade spray equipment to apply paint evenly and quickly, minimizing brush marks and drips. This technique is especially effective for furniture, cabinetry, metalwork, and other complex surfaces where precision and finish quality are critical. Our skilled operators control spray patterns and paint flow to suit each project’s requirements, ensuring a high-end finish that lasts.",
+        "imageSrc": "/images/modules/spray-painting.jpg",
+        "imageAlt": "Spray Painting",
+        "backgroundColor": "#ffffff", 
+        "textColor": "#000000"
+      }
+    }
+  ]
+},
+{
+  "slug": "plastering-services",
+  "title": "Plastering Services",
+  "text": "Expert plastering services for interiors and exteriors, ensuring smooth, durable surfaces and professional finishes every time.",
+  "icon": "GiTrowel",
+  "seo": {
+    "title": "Professional Plastering Services | MR GOODS LIMITED",
+    "description": "High-quality plastering and rendering services to prepare and perfect your walls and ceilings.",
+    "url": "https://www.mrgoods.co.uk/services/plastering-services"
+  },
+  "blocks": [
+    {
+      "type": "LeftTextBlockWhite",
+      "props": {
+        "title": "Professional Plastering Services",
+        "subtitle": "Flawless Surfaces Start Here",
+        "text": "Before the paint goes on, the foundation must be right. Our plastering services include traditional plaster, skimming, and drywall installation — creating smooth, durable surfaces that last for years. No cracks, no rough patches — just precision and polish."
+      }
+    },
+    {
+      "type": "RightImageLeftSection",
+      "props": {
+        "title": "Solid Prep for Solid Results",
+        "text": "We take pride in delivering uniform, crack-free finishes. Our team works quickly and cleanly, leaving your space ready for decorating or painting. Whether it's repair work or new builds, our plastering lays the groundwork for perfection.",
+        "imageSrc": "/images/services/plastering-services.jpg",
+        "imageAlt": "Plastering Wall",
+        "ctaText": "View Plastering Services",
+        "ctaLink": "/services/painting-services"
+      }
+    },
+    {
+      "type": "ImageLeftText",
+      "props": {
+        "id": "skimming",
+        "title": "Skimming",
+        "text": "Our skimming service involves applying a thin, smooth layer of plaster over walls and ceilings to create a flawless finish ready for decoration. This process hides imperfections, cracks, and uneven textures, giving a fresh, modern appearance. Skilled plasterers use specialist techniques and tools to achieve perfect coverage, ensuring the surface is smooth to the touch and visually immaculate. Skimming is ideal for newly plastered walls, older surfaces, or any room requiring a polished, professional look.",
+        "imageSrc": "/images/modules/skimming.jpg",
+        "imageAlt": "Skimming",
+        "backgroundColor": "#ffffff", 
+        "textColor": "#000000"
+      }
+    },
+    {
+      "type": "ImageRightText",
+      "props": {
+        "id": "wall-plastering",
+        "title": "Wall Plastering",
+        "text": "We provide comprehensive wall plastering services, applying layers of plaster to protect and prepare your walls for painting or wallpaper. Our plasterers evaluate each surface’s condition, repairing cracks and holes before applying base coats and finishing layers. This process ensures walls are sturdy, even, and resistant to damage. We use high-quality materials suited to the wall’s structure and environmental conditions, delivering lasting durability and a smooth finish that elevates any space.",
+        "imageSrc": "/images/modules/wall-plastering.jpg",
+        "imageAlt": "Wall Plastering"
+      }
+    },
+    {
+      "type": "ImageLeftText",
+      "props": {
+        "id": "ceiling-plastering",
+        "title": "Ceiling Plastering",
+        "text": "Our ceiling plastering service focuses on creating perfectly smooth ceilings free of cracks and imperfections. Whether renovating an old ceiling or finishing new construction, our team applies plaster evenly with precision. We use durable, high-quality materials that resist shrinkage and cracking, providing a clean surface for painting or other finishes. Our work improves room aesthetics and can also help with soundproofing and insulation when combined with other treatments.",
+        "imageSrc": "/images/modules/ceiling-plastering.jpg",
+        "imageAlt": "Ceiling Plastering",
+        "backgroundColor": "#ffffff", 
+        "textColor": "#000000"
+      }
+    },
+    {
+      "type": "ImageRightText",
+      "props": {
+        "id": "external-rendering",
+        "title": "External Rendering",
+        "text": "Protect your building’s exterior with our expert external rendering service. We apply weatherproof, breathable renders that shield walls from moisture, UV damage, and environmental wear. Our team carefully prepares surfaces by cleaning and repairing cracks before applying multiple render layers for strength and durability. External rendering not only enhances your property’s appearance but also improves insulation and prevents water ingress, extending the life of your building’s exterior surfaces.",
+        "imageSrc": "/images/modules/external-rendering.jpg",
+        "imageAlt": "External Rendering"
+      }
+    },
+    {
+      "type": "ImageLeftText",
+      "props": {
+        "id": "textured-plaster",
+        "title": "Textured Plaster Application",
+        "text": "Add dimension and character to your walls with our textured plaster finishes. We apply decorative plaster with various patterns and textures, including rough, smooth, swirl, or stippled effects, tailored to your interior design preferences. Textured plaster not only enhances aesthetics but also hides minor wall imperfections and adds a tactile quality to your rooms. Our craftsmen use high-quality materials and expert techniques to ensure lasting beauty and durability.",
+        "imageSrc": "/images/modules/textured-plaster.jpg",
+        "imageAlt": "Textured Plaster Application",
+        "backgroundColor": "#ffffff", 
+        "textColor": "#000000"
+      }
+    },
+    {
+      "type": "ImageRightText",
+      "props": {
+        "id": "decorative-plastering",
+        "title": "Decorative Plastering",
+        "text": "Our decorative plastering services combine craftsmanship and artistic design to create stunning wall finishes. From custom patterns and reliefs to intricate mouldings, we help transform plain walls into works of art. Using a variety of plaster types and techniques, including Venetian plaster, stucco, and ornamental plaster, we tailor each project to your style and preferences. Decorative plastering adds elegance and value to residential and commercial interiors alike.",
+        "imageSrc": "/images/modules/decorative-plastering.jpg",
+        "imageAlt": "Decorative Plastering"
+      }
+    },
+    {
+      "type": "ImageLeftText",
+      "props": {
+        "id": "plaster-repair",
+        "title": "Crack and Damage Repairs",
+        "text": "We specialize in repairing cracks, holes, and damaged plaster surfaces to restore walls and ceilings to their original condition. Our process includes thorough assessment, cleaning damaged areas, filling cracks with quality materials, and smoothing the surface for seamless results. Timely plaster repairs prevent further deterioration and maintain the structural integrity and appearance of your interiors.",
+        "imageSrc": "/images/modules/plaster-repair.jpg",
+        "imageAlt": "Plaster Repair",
+        "backgroundColor": "#ffffff", 
+        "textColor": "#000000"
+      }
+    },
+    {
+      "type": "ImageRightText",
+      "props": {
+        "id": "dry-lining",
+        "title": "Dry Lining (Plasterboard Installation)",
+        "text": "Dry lining using plasterboard is an efficient way to create new walls and ceilings or renovate existing spaces. Our skilled installers fit plasterboards quickly and accurately, ensuring smooth surfaces ready for finishing. Dry lining offers benefits such as improved insulation, soundproofing, and a faster alternative to traditional plastering. We tailor installations to your project’s requirements, ensuring durability and precision.",
+        "imageSrc": "/images/modules/dry-lining.jpg",
+        "imageAlt": "Dry Lining"
+      }
+    },
+    {
+      "type": "ImageLeftText",
+      "props": {
+        "id": "surface-preparation",
+        "title": "Surface Preparation & Old Plaster Removal",
+        "text": "Proper surface preparation is essential for any successful plastering or painting project. We provide thorough cleaning, sanding, and removal of old plaster and paint to ensure new coatings adhere perfectly. Our experts assess and treat surfaces, repairing damage before beginning new work. This foundation guarantees lasting results and high-quality finishes.",
+        "imageSrc": "/images/modules/surface-preparation.jpg",
+        "imageAlt": "Surface Preparation",
+        "backgroundColor": "#ffffff", 
+        "textColor": "#000000"
+      }
+    }
+  ]
+},
+{
+  "slug": "decorating-services",
+  "title": "Decorating Services",
+  "text": "Comprehensive decorating solutions for interiors and exteriors. We bring style, color, and personality to your property with precision and creativity.",
+  "icon": "MdBrush",
+  "seo": {
+    "title": "Professional Decorating Services | MR GOODS LIMITED",
+    "description": "Transform your space with expert decorating services, including wallpapering, feature walls, and bespoke finishes.",
+    "url": "https://www.mrgoods.co.uk/services/decorating-services"
+  },
+  "blocks": [
+    {
+      "type": "LeftTextBlockWhite",
+      "props": {
+        "title": "Decorating Services That Define Spaces",
+        "subtitle": "Style That Matches Substance",
+        "text": "From wallpaper to feature walls, our decorating services bring personality and polish to your interiors. We work closely with clients to match their vision with techniques and finishes that elevate the room’s aesthetic and value."
+      }
+    },
+    {
+      "type": "RightImageLeftSection",
+      "props": {
+        "title": "Attention to Detail",
+        "text": "Every stroke, every pattern, every corner — our decorators are perfectionists. Whether you're going bold or classic, modern or cozy, we tailor each project to reflect your taste. Clean application, stunning results, and minimal mess guaranteed.",
+        "imageSrc": "/images/services/decorating-services.jpg",
+        "imageAlt": "Decorating a Living Room",
+        "ctaText": "View Decorating Services",
+        "ctaLink": "/services/decorating-services"
+      }
+    },
+    {
+      "type": "ImageLeftText",
+      "props": {
+        "id": "wallpaper-installation",
+        "title": "Wallpaper Installation",
+        "text": "Our wallpaper installation service turns plain walls into stunning visual features. We handle all types of wallpaper, from traditional paper-based designs to modern vinyl and textured finishes. Our skilled decorators prepare surfaces meticulously, ensuring they are clean, smooth, and primed for perfect adhesion. With precision cutting and alignment, we install your chosen wallpaper flawlessly, handling tricky corners and patterns with ease. Whether you want to add subtle texture or bold statements, our wallpapering elevates your interiors and lasts for years without peeling or bubbling.",
+        "imageSrc": "/images/modules/wallpaper-installation.jpg",
+        "imageAlt": "Wallpaper Installation",
+        "backgroundColor": "#ffffff", 
+        "textColor": "#000000"
+      }
+    },
+    {
+      "type": "ImageRightText",
+      "props": {
+        "id": "feature-walls",
+        "title": "Feature Walls",
+        "text": "Create a focal point in any room with our feature wall services. Using paint, wallpaper, textured finishes, or bespoke decorative effects, we bring your vision to life with expert craftsmanship. Feature walls enhance the aesthetic appeal of living rooms, bedrooms, offices, or commercial spaces by adding depth, color contrast, and personality. We advise on color schemes, materials, and design options to ensure the finished feature wall complements your overall décor perfectly, making your space unique and inviting.",
+        "imageSrc": "/images/modules/feature-walls.jpg",
+        "imageAlt": "Feature Walls"
+      }
+    },
+    {
+      "type": "ImageLeftText",
+      "props": {
+        "id": "faux-finishes",
+        "title": "Faux Finishes",
+        "text": "Our faux finishing techniques add texture and visual interest to walls and ceilings, mimicking materials like marble, wood grain, metallic surfaces, or aged plaster. Using specialist paints and brushes, our artisans create authentic effects that elevate interiors with sophistication and artistry. Faux finishes are perfect for accent areas, commercial premises, or residential homes looking to incorporate unique design elements without the cost of actual materials. Each finish is tailored to your preferences, combining durability with aesthetic appeal.",
+        "imageSrc": "/images/modules/faux-finishes.jpg",
+        "imageAlt": "Faux Finishes",
+        "backgroundColor": "#ffffff", 
+        "textColor": "#000000"
+      }
+    },
+    {
+      "type": "ImageRightText",
+      "props": {
+        "id": "paint-effect-techniques",
+        "title": "Paint Effect Techniques",
+        "text": "Explore creative painting effects such as sponging, rag rolling, stippling, and color washing that add layers of depth and texture to your walls. Our professional decorators skillfully apply these techniques to transform ordinary surfaces into artistic expressions. Whether you desire a subtle vintage charm or bold contemporary style, we customize paint effects to suit your taste and interior theme. These techniques enhance wall finishes, provide dimension, and create a personalized ambiance in any room.",
+        "imageSrc": "/images/modules/paint-effect-techniques.jpg",
+        "imageAlt": "Paint Effect Techniques"
+      }
+    },
+    {
+      "type": "ImageLeftText",
+      "props": {
+        "id": "exterior-decorating",
+        "title": "Exterior Decorating",
+        "text": "Boost your property’s curb appeal with our expert exterior decorating services. We work with weather-resistant paints, stains, and protective coatings designed to withstand the elements and retain vibrant color. Our team prepares surfaces by cleaning, scraping, and repairing damaged areas before applying coatings with precision. Whether it’s painting window trims, doors, fascia boards, or decorative moldings, we ensure long-lasting, high-quality finishes that protect and beautify your home or business façade.",
+        "imageSrc": "/images/modules/exterior-decorating.jpg",
+        "imageAlt": "Exterior Decorating",
+        "backgroundColor": "#ffffff", 
+        "textColor": "#000000"
+      }
+    },
+    {
+      "type": "ImageRightText",
+      "props": {
+        "id": "furniture-painting",
+        "title": "Furniture Painting and Restoration",
+        "text": "Refresh and restore your furniture with our specialist painting and finishing services. We use fine sanding, priming, and painting techniques suitable for wood, metal, and laminate surfaces to give your furniture a new lease on life. From vintage pieces to modern designs, we apply durable paints and finishes that resist scratches and wear while enhancing color and texture. Whether you want to match existing décor or create a statement piece, our furniture painting service provides professional results that last.",
+        "imageSrc": "/images/modules/furniture-painting.jpg",
+        "imageAlt": "Furniture Painting and Restoration"
+      }
+    },
+    {
+      "type": "ImageLeftText",
+      "props": {
+        "id": "ceiling-decoration",
+        "title": "Ceiling Decoration",
+        "text": "Elevate your rooms with decorative ceiling finishes, including textured plaster, decorative molding, or painted patterns. We work with a range of materials and techniques to enhance ceilings and complement your interior style. From subtle textures that add warmth to bold decorative designs that become focal points, our ceiling decoration service combines functionality and artistry. Proper preparation and expert application ensure lasting beauty and durability in all projects.",
+        "imageSrc": "/images/modules/ceiling-decoration.jpg",
+        "imageAlt": "Ceiling Decoration",
+        "backgroundColor": "#ffffff", 
+        "textColor": "#000000"
+      }
+    },
+    {
+      "type": "ImageRightText",
+      "props": {
+        "id": "wall-preparation",
+        "title": "Wall Preparation and Repairs",
+        "text": "Before any decorating project, we thoroughly prepare walls to guarantee perfect finishes. Our team repairs cracks, fills holes, sands rough patches, and cleans surfaces to create an ideal canvas for paint or wallpaper. Proper preparation extends the life of your decorative finishes and ensures professional quality. We also advise on suitable primers and treatments tailored to your walls’ condition and the materials you plan to use.",
+        "imageSrc": "/images/modules/wall-preparation.jpg",
+        "imageAlt": "Wall Preparation and Repairs"
+      }
+    }
+  ]
+},
+{
+  "slug": "drylining-services",
+  "title": "Drylining Services",
+  "text": "Efficient drylining solutions for quick, clean, and flexible interior wall and ceiling installations.",
+  "icon": "FaRegWindowMaximize",
+  "seo": {
+    "title": "Expert Drylining Services | MR GOODS LIMITED",
+    "description": "Fast and professional drylining and partition wall installation services to enhance your interiors.",
+    "url": "https://www.mrgoods.co.uk/services/drylining-services"
+  },
+  "blocks": [
+    {
+      "type": "LeftTextBlockWhite",
+      "props": {
+        "title": "Drylining for Modern Spaces",
+        "subtitle": "Speed Meets Precision",
+        "text": "Drylining is the modern way to build and finish walls quickly, cleanly, and efficiently. Our services are ideal for residential and commercial spaces that demand fast turnaround without sacrificing quality. We use the best boards, tools, and methods in the trade."
+      }
+    },
+    {
+      "type": "RightImageLeftSection",
+      "props": {
+        "title": "Streamlined Build Process",
+        "text": "Whether you're partitioning rooms or building new walls, our drylining experts ensure accuracy, stability, and a perfect surface. We handle metal stud systems, plasterboard fixing, and finishing — all with minimal waste and disruption.",
+        "imageSrc": "/images/services/drylining-services.jpg",
+        "imageAlt": "Drylining Installation",
+        "ctaText": "View Drylining Services",
+        "ctaLink": "/services/drylining-services"
+      }
+    },
+    {
+      "type": "ImageLeftText",
+      "props": {
+        "id": "plasterboard-installation",
+        "title": "Plasterboard Installation",
+        "text": "Our plasterboard installation service offers a quick and clean way to create new walls and ceilings or refurbish existing spaces. We use high-quality plasterboards suited to each project’s specifications, ensuring durability, fire resistance, and soundproofing where required. Our skilled installers measure, cut, and fix boards with precision to achieve smooth, level surfaces ready for finishing. This method reduces construction time and mess compared to traditional wet plastering.",
+        "imageSrc": "/images/modules/plasterboard-installation.jpg",
+        "imageAlt": "Plasterboard Installation",
+        "backgroundColor": "#ffffff", 
+        "textColor": "#000000"
+      }
+    },
+    {
+      "type": "ImageRightText",
+      "props": {
+        "id": "partition-walls",
+        "title": "Partition Walls",
+        "text": "Create flexible interior layouts with our partition wall installation service. Whether for offices, residential spaces, or commercial properties, we design and build partitions tailored to your needs. Our solutions include sound-insulated and fire-rated partitions using quality materials and expert craftsmanship. Partitions provide privacy, define spaces, and improve functionality without permanent structural changes, offering adaptability to evolving requirements.",
+        "imageSrc": "/images/modules/partition-walls.jpg",
+        "imageAlt": "Partition Walls"
+      }
+    },
+    {
+      "type": "ImageLeftText",
+      "props": {
+        "id": "ceiling-lining",
+        "title": "Ceiling Lining",
+        "text": "We provide professional ceiling lining services using plasterboard and other drylining materials to create smooth, flat ceilings or to cover existing surfaces. Our team ensures proper fixing and finishing, accommodating lighting installations, insulation, and soundproofing requirements. Ceiling lining enhances room aesthetics, improves insulation, and simplifies maintenance while reducing construction downtime.",
+        "imageSrc": "/images/modules/ceiling-lining.jpg",
+        "imageAlt": "Ceiling Lining",
+        "backgroundColor": "#ffffff", 
+        "textColor": "#000000"
+      }
+    },
+    {
+      "type": "ImageRightText",
+      "props": {
+        "id": "soundproofing-solutions",
+        "title": "Soundproofing Solutions",
+        "text": "Enhance privacy and comfort with our soundproofing solutions integrated into drylining projects. Using acoustic plasterboards, insulation materials, and specialist techniques, we reduce noise transmission between rooms and floors. Soundproofing is ideal for offices, home cinemas, bedrooms, and commercial spaces requiring noise control. Our experts design and implement solutions tailored to your acoustic needs and building regulations.",
+        "imageSrc": "/images/modules/soundproofing-solutions.jpg",
+        "imageAlt": "Soundproofing Solutions"
+      }
+    },
+    {
+      "type": "ImageLeftText",
+      "props": {
+        "id": "fire-rated-walls",
+        "title": "Fire-Rated Walls",
+        "text": "Safety is paramount, which is why we install fire-rated drylining systems that comply with current fire safety standards. These walls slow the spread of fire and provide critical extra minutes for evacuation and damage control. We use certified fire-resistant boards and components, installed by qualified professionals to ensure full compliance and maximum protection. Fire-rated walls are essential in commercial buildings, multi-residential properties, and any space requiring enhanced safety measures.",
+        "imageSrc": "/images/modules/fire-rated-walls.jpg",
+        "imageAlt": "Fire-Rated Walls",
+        "backgroundColor": "#ffffff", 
+        "textColor": "#000000"
+      }
+    },
+    {
+      "type": "ImageRightText",
+      "props": {
+        "id": "moisture-resistant-drylining",
+        "title": "Moisture-Resistant Drylining",
+        "text": "For kitchens, bathrooms, and other damp areas, we provide moisture-resistant drylining solutions that prevent mold and water damage. Our specialists install water-repellent plasterboards and seal joints meticulously to create durable, moisture-safe surfaces. This ensures longevity of finishes and protects your interiors from costly repairs caused by damp-related issues.",
+        "imageSrc": "/images/modules/moisture-resistant-drylining.jpg",
+        "imageAlt": "Moisture-Resistant Drylining"
+      }
+    },
+    {
+      "type": "ImageLeftText",
+      "props": {
+        "id": "insulation-integration",
+        "title": "Insulation Integration",
+        "text": "We integrate thermal and acoustic insulation within drylining systems to improve energy efficiency and comfort. Using high-quality insulation materials fitted behind plasterboards, we help reduce heat loss, minimize noise, and create healthier indoor environments. Proper insulation also contributes to lower energy bills and compliance with building regulations.",
+        "imageSrc": "/images/modules/insulation-integration.jpg",
+        "imageAlt": "Insulation Integration",
+        "backgroundColor": "#ffffff", 
+        "textColor": "#000000"
+      }
+    },
+    {
+      "type": "ImageRightText",
+      "props": {
+        "id": "surface-finishing",
+        "title": "Surface Finishing",
+        "text": "Our surface finishing service includes taping, jointing, sanding, and priming of plasterboard surfaces to prepare them perfectly for painting or wallpapering. We ensure smooth, flawless walls and ceilings free from visible seams or imperfections. Attention to detail at this stage guarantees professional, long-lasting decorative finishes and customer satisfaction.",
+        "imageSrc": "/images/modules/surface-finishing.jpg",
+        "imageAlt": "Surface Finishing"
+      }
+    }
+  ]
+}
+]
+
+
+
