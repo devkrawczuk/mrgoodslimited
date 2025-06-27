@@ -42,7 +42,7 @@ function Header() {
             src="/images/1-cropped.svg"
             alt="MR GOODS LOGO"
             className="img-fluid"
-            style={{ maxHeight: '55px', objectFit: 'contain', width: '100%' }}
+            style={{ maxHeight: '55px', objectFit: 'contain', width: '117px', height: 'fit-content' }}
           />
         </NavLink>
 
