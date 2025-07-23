@@ -60,7 +60,7 @@ function Footer() {
 
           {/* Socials */}
           <div className="col-md-3 mb-4">
-            <h6 className="fw-semibold text-white">Contact</h6>
+            <h6 className="fw-semibold text-white">Contact us</h6>
             <p className="mb-1"><a href="mailto:seo.peterman@gmail.com" className="text-dark">seo.peterman@gmail.com</a></p>
             <p className="mb-1"><a href="tel:+44123456789" className="text-dark">+44 1234 456 789</a></p>
             <p className="mb-1">314 Middle Park Way</p>
